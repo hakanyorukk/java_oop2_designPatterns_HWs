@@ -1,0 +1,10 @@
+Task:
+
+Write a program for cookbook.
+
+The book can contain recipes from three cuisines:
+ Bulgarian, Italian, and Mexican,
+  and has the ability to display all recipes as a behaviour.
+
+Each recipe is defined by name and as behaviour returns information
+ about the type of cuisine and the specific name.

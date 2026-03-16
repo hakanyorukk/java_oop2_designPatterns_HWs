@@ -1,0 +1,13 @@
+Use Singleton and Builder patterns to create program for
+ fitness centre.
+
+Each instructor is defined by name and phone number.
+
+ All instructors operate with one and the same list of training programs,
+ and could add program, remove program and see all available programs.
+
+Training program is defined with name, type (aerobic, resistance,
+ balance, stretching), duration in minutes, difficulty level,
+ number of series, number of exercises,
+ and is it group or individual program.
+Create class with main method to test the logic.
