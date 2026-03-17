@@ -21,7 +21,7 @@ public class TrainingProgram {
 
     @Override
     public String toString() {
-        return "TrainingProgram{" +
+        return "{" +
                 "name='" + name + '\'' +
                 ", type=" + type +
                 ", duration=" + duration +

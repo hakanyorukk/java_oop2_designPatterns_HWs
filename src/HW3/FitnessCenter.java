@@ -27,9 +27,11 @@ public class FitnessCenter {
         programs.remove(program);
     }
 
-    public void showPrograms() {
+    public String showPrograms() {
+        StringBuilder sb = new StringBuilder("Training Programs = {");
         for(TrainingProgram program: programs) {
-            System.out.println(program);
+            sb.append(program).append("\n");
         }
+        return sb.toString();
     }
 }

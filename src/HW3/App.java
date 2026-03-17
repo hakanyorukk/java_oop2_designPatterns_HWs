@@ -18,10 +18,11 @@ public class App {
 
         firstInstructor.addProgram(bodyBuilding);
         secondInstructor.addProgram(cardio);
+        System.out.println(FitnessCenter.getInstance().showPrograms());
 
-        firstInstructor.showPrograms();
+        //firstInstructor.showPrograms();
         //secondInstructor.showPrograms();
 
-        secondInstructor.removeProgram(cardio);
+       // secondInstructor.removeProgram(cardio);
     }
 }
