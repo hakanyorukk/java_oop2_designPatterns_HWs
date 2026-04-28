@@ -1,0 +1,16 @@
+Task:
+
+Create a program for processing loan applications received by a bank.
+
+A loan request is described by a number, loan amount, and the full name of the client.
+
+Depending on the loan amount, the application can be approved by a credit consultant for
+amounts up to 1,000, a branch manager for amounts up to 10,000, and a regional director for larger amounts.
+
+When an application is approved, a message is returned containing information about the application number and who approved it.
+
+Use the Observer and Chain of Responsibility design templates to implement the system.
+
+Please, attach only files with .java extension.
+
+Tasks in wrong format or wit h compilation errors will not be evaluated.

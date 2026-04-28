@@ -8,10 +8,10 @@ import HW4_Practice.Factory.models.TurkishCoffee;
 
 public class HotDrinkFactory {
     public static HotDrink createHotDrink(HotDrinkType type, double price) {
-        switch(type) {
+        switch (type) {
             case LATTE : return new Latte(price);
-            case TURKISH_COFFEE: return new TurkishCoffee(price);
             case ESPRESSO: return new Espresso(price);
+            case TURKISH_COFFEE: return new TurkishCoffee(price);
             default: return null;
         }
     }

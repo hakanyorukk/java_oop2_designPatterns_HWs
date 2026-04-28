@@ -1,0 +1,5 @@
+
+Write a program for file export system in a company.
+The system provides options to export files with extension .txt, .csv or .json; file is defined by its name.
+System must integrate existing external library that process .pdf files.
+Implement the integration (without changing the library) so that it can be used in the current exporting system.
