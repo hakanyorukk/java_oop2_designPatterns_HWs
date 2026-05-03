@@ -1,0 +1,13 @@
+Task:
+
+Write a program describing a system for ordering drinks in a restaurant.
+
+The restaurant offers hot and cold drinks, each of which can be prepared for consumption on site or for takeout.
+
+Each drink is characterized by a name and volume in ml, and extras such as milk, ice, sugar, honey, syrup can be added to it.
+
+Use Decorator & Bridge patterns for implementation.
+
+Please, attach only files with .java extension.
+
+Tasks in wrong format or with compilation errors will not be evaluated.

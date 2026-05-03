@@ -1,0 +1,15 @@
+Task:
+
+Write a program that defines a system for presenting a text document.
+
+The document maintains a hierarchical structure of elements consisting of document, paragraph, and symbol. Each element of this hierarchy has the ability to be visualized as a behaviour.
+
+Symbols can be Latin letters or digits.
+
+The implementation must allow common elements to be shared.
+
+Use Composite & Flyweight patterns for implementation.
+
+Please, attach only files with .java extension.
+
+Tasks in wrong format or with compilation errors will not be evaluated.

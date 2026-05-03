@@ -1,0 +1,21 @@
+Task:
+
+Write a program for a bookstore management system stock module.
+
+Each book is defined by title and available quantity.
+ Depending on the available quantity, the book can be in one of the following states:
+  available (for a quantity greater than 5), awaiting delivery (for a quantity up to 5),
+   and out of stock (for a quantity of 0).
+
+The system must support the operations of purchasing and delivering a book,
+ each of which affects the available quantity. Depending on the current
+  state of the book, the purchase can be allowed or prohibited,
+   and after each operation the state of the book can change automatically.
+
+The implementation should support easy addition of operations and states.
+
+Use State and Command patterns to implement the task.
+
+Please, attach only files with .java extension.
+
+Tasks in wrong format or with compilation errors will not be evaluated.
