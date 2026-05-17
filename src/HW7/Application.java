@@ -1,8 +1,8 @@
 package HW7;
 
-import lab8.HW7.composite.Document;
-import lab8.HW7.composite.Paragraph;
-import lab8.HW7.flyweight.DocumentRepository;
+import HW7.composite.Document;
+import HW7.composite.Paragraph;
+import HW7.flyweight.DocumentRepository;
 
 public class Application {
     public static void main(String[] args) {

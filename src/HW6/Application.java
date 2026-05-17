@@ -1,12 +1,12 @@
 package HW6;
 
-import lab7.HW6.decorators.ExtraDecorator;
-import lab7.HW6.drinks.ColdDrink;
-import lab7.HW6.drinks.Drink;
-import lab7.HW6.drinks.HotDrink;
-import lab7.HW6.enums.ExtraType;
-import lab7.HW6.models.OnSitePreparation;
-import lab7.HW6.models.TakeoutPreparation;
+import HW6.decorators.ExtraDecorator;
+import HW6.drinks.ColdDrink;
+import HW6.drinks.Drink;
+import HW6.drinks.HotDrink;
+import HW6.enums.ExtraType;
+import HW6.models.OnSitePreparation;
+import HW6.models.TakeoutPreparation;
 
 public class Application {
 

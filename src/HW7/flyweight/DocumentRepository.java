@@ -1,8 +1,8 @@
 package HW7.flyweight;
 
-import lab8.HW7.models.Digit;
-import lab8.HW7.models.LatinLetter;
-import lab8.HW7.models.Symbol;
+import HW7.models.Digit;
+import HW7.models.LatinLetter;
+import HW7.models.Symbol;
 
 import java.util.HashMap;
 import java.util.Map;

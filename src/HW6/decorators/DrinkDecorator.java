@@ -1,6 +1,6 @@
 package HW6.decorators;
 
-import lab7.HW6.drinks.Drink;
+import HW6.drinks.Drink;
 
 public abstract class DrinkDecorator extends Drink {
 

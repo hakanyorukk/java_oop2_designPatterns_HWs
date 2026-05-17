@@ -1,6 +1,6 @@
 package HW6.drinks;
 
-import lab7.HW6.contracts.DrinkPreparation;
+import HW6.contracts.DrinkPreparation;
 
 public class ColdDrink extends Drink {
 

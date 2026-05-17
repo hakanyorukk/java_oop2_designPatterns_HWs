@@ -1,0 +1,21 @@
+Write a program for a simple airport passenger
+ screening system.
+
+The system should support both regular and
+ VIP passengers.
+  Regular passengers are described by name and document number,
+  and VIP passengers by name, document number, and VIP number.
+
+Passengers should be able to perform document checks.
+
+The implementation should allow easy addition of new checks on
+ passengers without changing the passenger classes themselves.
+
+All checks should be coordinated by a checkpoint through which
+all checks on passengers pass.
+
+Use the Visitor and Mediator design templates for the implementation.
+
+Please, attach only files with .java extension.
+
+Tasks in wrong format or with compilation errors will not be evaluated.

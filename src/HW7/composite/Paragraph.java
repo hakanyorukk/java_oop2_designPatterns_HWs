@@ -1,7 +1,7 @@
 package HW7.composite;
 
-import lab8.HW7.contracts.TextDocument;
-import lab8.HW7.models.Symbol;
+import HW7.contracts.TextDocument;
+import HW7.models.Symbol;
 
 import java.util.ArrayList;
 import java.util.List;
